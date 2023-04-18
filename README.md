@@ -1,3 +1,11 @@
+About this fork
+===============
+
+This is my personal reworking, fixes and improvements of the FPDB Chazdazzle repo for Python 2.7 64bit version based upon PyQt5 better suited for MacOs that no longer need to run it through an X-Window server as with the original FPDB version from sourceforge based upon GTK.
+
+For Windows and Linux, best suited is my personal revival fork repo of original FPDB version (GTK) working under Python 2.7 32bit version from: https://sourceforge.net/projects/fpdb/ coming with last poker site importation compatibility, and my personal reworking, fixes and improvements you can find here: https://github.com/Mudr0x/fpdb-reloaded
+
+
 Qt branch notes
 ===============
 
