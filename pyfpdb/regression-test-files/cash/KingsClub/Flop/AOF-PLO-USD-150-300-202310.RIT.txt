@@ -1,0 +1,34 @@
+#7851383: Pot Limit Omaha - 150/300
+2023-10-07 03:04:57
+Table 'MAD AOF PLO HighCAP 4' Seat 1 is the button
+Seat 1: Player0 (2,000)
+Seat 2: Player1 (2,000)
+Seat 3: Hero (2,000)
+Seat 4: Player2 (2,000)
+Player0: posts ante 50
+Player1: posts ante 50
+Hero: posts ante 50
+Player2: posts ante 50
+Player1: posts the small blind 150
+Hero: posts the big blind 300
+*** HOLE CARDS ***
+Dealt to Player0: [X X X X]
+Dealt to Player1: [X X X X]
+Dealt to Hero: [Jh 7c Qh 6h]
+Dealt to Player2: [X X X X]
+*** FLOP *** [Qs 4c Js]
+Player2 raises to 1,950, and is all in
+Player0 folds
+Player1 folds
+Hero calls 1,950, and is all in
+Hero shows [Jh 7c Qh 6h]
+Player2 shows [4d 9s 3s 5c]
+*** BOARD 1 - RIVER *** [Qs 4c Js 2s] [3c]
+*** BOARD 2 - RIVER *** [- - - 6s] [8d]
+*** SUMMARY * **
+Seat 1: Player0 (1,950) -50
+Seat 2: Player1 (1,800) -200
+Seat 3: Hero (0) -2,000
+Seat 4: Player2 (4,229) +2,229
+Rake 21
+Player2 wins pot (4,229)

@@ -542,7 +542,7 @@ class DerivedStats():
                         runitcards += hand.board[street_i]
                         sId = len(boardcards + runitcards) - 3
                         boardStreets[sId].append(boardcards + runitcards)
-            for i in range(len(boardStreets)):
+            for i in range(len([b for b in boardStreets if len(b)>0])):
                 if boardStreets[i]:
                     boards[allInStreets[i+1]]['board'] = boardStreets[i]
         else:   
