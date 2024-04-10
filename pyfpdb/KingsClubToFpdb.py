@@ -437,11 +437,14 @@ class KingsClub(HandHistoryConverter):
                 r"(\*\*\* BOARD 1 - RIVER \*\*\* \[(?P<FLOP1>\S\S \S\S \S\S) (?P<TURN1>\S\S)] (?P<RIVER1>\[\S\S\].+(?=\*\*\* BOARD 2 - RIVER \*\*\*)|.+))"
                 r"(\*\*\* BOARD 2 - RIVER \*\*\* \[(?P<FLOP2>(\S\S|\-) (\S\S|\-) (\S\S|\-)) (?P<TURN2>(\S\S|\-))] (?P<RIVER2>\[\S\S\].+))", post,re.DOTALL)
             if m1:
-                if hand.streets.get('FLOP') is None:
+                if hand.streets.get('FLOP') is None or re.search(r"\*\*\* BOARD 1 - FLOP \*\*\*", post,re.DOTALL):
                     hand.streets.update({'FLOP1': m1.group('FLOP1'),'FLOP2': m1.group('FLOP2')})
-                if hand.streets.get('TURN') is None:
+                    hand.streets['FLOP'] = []
+                if hand.streets.get('TURN') is None or re.search(r"\*\*\* BOARD 1 - TURN \*\*\*", post,re.DOTALL):
                     hand.streets.update({'TURN1': m1.group('TURN1'),'TURN2': m1.group('TURN2')})
+                    hand.streets['TURN'] = []
                 hand.streets.update({'RIVER1': m1.group('RIVER1'),'RIVER2': m1.group('RIVER2')})
+                hand.streets['RIVER'] = []
             else:
                 m2 =  re.search(
                     r"(\*\*\* RIVER \*\*\* \[(?P<FLOP>\S\S \S\S \S\S) (?P<TURN>\S\S)] (?P<RIVER>\[\S\S\].+(?=\*\*\* SUMMARY \*\s?\*\*)|.+))", post,re.DOTALL)

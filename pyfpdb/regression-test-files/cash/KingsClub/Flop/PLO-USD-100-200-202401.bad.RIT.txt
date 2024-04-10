@@ -1,0 +1,36 @@
+#8777161: Pot Limit Omaha - 100/200
+2024-01-30 01:52:43
+Table '8 game mix' Seat 3 is the button
+Seat 2: Player0 (2,492)
+Seat 3: Player1 (8,000)
+Seat 4: Hero (8,000)
+Player0: posts ante 60
+Player1: posts ante 60
+Hero: posts ante 60
+Hero: posts the small blind 100
+Player0: posts the big blind 200
+*** HOLE CARDS ***
+Dealt to Player0: [X X X X]
+Dealt to Player1: [X X X X]
+Dealt to Hero: [7c 6c 5h Jd]
+Player1 folds
+Hero calls 200
+Player0 checks
+*** FLOP *** [8d Ts 4d]
+Hero bets 396.20
+Player0 calls 396.20
+*** TURN *** [8d Ts 4d] [9h]
+Hero bets 1,358.40
+Player0 raises to 1,835.80, and is all in
+Hero calls 1,835.80
+Player0 shows [Kd Qc 6s Jc]
+Hero shows [7c 6c 5h Jd]
+*** RIVER *** [8d Ts 4d 9h] [Jh]
+*** BOARD 1 - RIVER *** [8d Ts 4d 9h] [Jh]
+*** BOARD 2 - RIVER *** [- - - -] [Js]
+*** SUMMARY * **
+Seat 2: Player0 (5,030) +2,538
+Seat 3: Player1 (7,940) -60
+Seat 4: Hero (5,508) -2,492
+Rake 14
+Player0 wins pot (5,030)
