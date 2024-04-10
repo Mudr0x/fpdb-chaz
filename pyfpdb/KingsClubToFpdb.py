@@ -637,8 +637,7 @@ class KingsClub(HandHistoryConverter):
         pass
 
     def readCollectPot(self,hand):
-        if ((hand.gametype['category'] == '27_1draw' and hand.gametype['limitType'] == 'nl') or
-            hand.gametype['base'] == 'stud'):
+        if ((hand.gametype['category'] == '27_1draw' and hand.gametype['limitType'] == 'nl')):
             hand.adjustCollected = False
         else:
             hand.adjustCollected = True

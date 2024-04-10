@@ -1,0 +1,56 @@
+#8776891: Limit Seven Card Stud - 400/800
+2024-01-30 01:10:22
+Table '8 game mix'
+Seat 2: Player0 (691)
+Seat 3: Player1 (6,400)
+Seat 4: Hero (8,000)
+Seat 7: Player2 (16,872)
+Player0: posts ante 100
+Player1: posts ante 100
+Hero: posts ante 100
+Player2: posts ante 100
+*** 3RD STREET ***
+Dealt to Player0: [X X 4s]
+Dealt to Player1: [X X 9s]
+Dealt to Hero: [Qh Ac Jc]
+Dealt to Player2: [X X 8h]
+Player0 brings in for 100
+Player1 folds
+Hero bets 400
+Player2 raises to 800
+Player0 calls 591, and is all in
+Hero calls 800
+*** 4TH STREET ***
+Dealt to Player0: [Td]
+Dealt to Hero: [7d]
+Dealt to Player2: [Jd]
+Player2 bets 400
+Hero calls 400
+*** 5TH STREET ***
+Dealt to Player0: [4c]
+Dealt to Hero: [5c]
+Dealt to Player2: [Tc]
+Hero checks
+Player2 bets 800
+Hero calls 800
+*** 6TH STREET ***
+Dealt to Player0: [2s]
+Dealt to Hero: [As]
+Dealt to Player2: [8c]
+Player2 bets 800
+Hero calls 800
+*** 7TH STREET ***
+Dealt to Player0: [X]
+Dealt to Hero: [3s]
+Dealt to Player2: [X]
+Player2 bets 800
+Hero folds
+Player2 shows [6h 7c 8h Jd Tc 8c Th]
+Player0 shows [4h 9c 4s Td 4c 2s Ts]
+*** SUMMARY * **
+Seat 2: Player0 (2,153) +1,462
+Seat 3: Player1 (6,300) -100
+Seat 4: Hero (5,100) -2,900
+Seat 7: Player2 (18,390) +1,518
+Rake 20
+Player0 wins pot (2,153)
