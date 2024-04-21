@@ -1,0 +1,57 @@
+PokerStars Hand #1311989106: Tournament #429329459, $11+$1 USD Hold'em No Limit - Level (2500/5000) - 2024/04/19 21:50:32 UTC
+Table 'CHC_429329459 27' 8-max Seat #2 is the button
+Seat 1: Player0 (27677 in chips)
+Seat 2: Player1 (393380 in chips)
+Seat 3: Player2 (114636 in chips)
+Seat 4: Player3 (52136 in chips)
+Seat 5: Player4 (153950 in chips)
+Seat 6: Player5 (214084 in chips)
+Seat 7: Player6 (209862 in chips)
+Seat 8: Hero (144485 in chips)
+Player0: posts the ante 600
+Player1: posts the ante 600
+Player2: posts the ante 600
+Player3: posts the ante 600
+Player4: posts the ante 600
+Player5: posts the ante 600
+Player6: posts the ante 600
+Hero: posts the ante 600
+Player2: posts small blind 2500
+Player3: posts big blind 5000
+*** HOLE CARDS ***
+Dealt to Hero [Ah Kc]
+Player4: folds
+Player5: raises 7500 to 12500
+Player6: folds
+Hero: raises 28750 to 41250
+Player0: folds
+Player1: folds
+Player2: folds
+Player3: folds
+Player5: calls 28750
+*** FLOP *** [4d Js 9d]
+Player5: checks
+Hero: bets 18960
+Player5: calls 18960
+*** TURN *** [4d Js 9d] [4c]
+Player5: checks
+Hero: checks
+*** RIVER *** [4d Js 9d 4c] [8h]
+Player5: bets 132720
+Hero: calls 83675 and is all-in
+Uncalled bet (49045) returned to Player5
+*** SHOW DOWN ***
+Player5: shows [Ad 5d] (a pair of Fours)
+Hero: shows [Ah Kc] (a pair of Fours)
+Hero collected 300070 from pot
+*** SUMMARY ***
+Total pot 300070 | Rake 0
+Board [4d Js 9d 4c 8h]
+Seat 1: Player0 folded before Flop (didn't bet)
+Seat 2: Player1 (button) folded before Flop (didn't bet)
+Seat 3: Player2 (small blind) folded before Flop
+Seat 4: Player3 (big blind) folded before Flop
+Seat 5: Player4 folded before Flop (didn't bet)
+Seat 6: Player5 showed [Ad 5d] and lost with a pair of Fours
+Seat 7: Player6 folded before Flop (didn't bet)
+Seat 8: Hero showed [Ah Kc] and won (300070) with a pair of Fours
