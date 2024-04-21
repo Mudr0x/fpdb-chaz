@@ -1,0 +1,25 @@
+﻿PokerStars Hand #249683115552: Zoom Tournament #3733799296, $0.00+$10.27+$0.73 USD Hold'em No Limit - Level II (20/40) - 2024/03/29 11:37:18 CET [2024/03/29 6:37:18 ET]
+Table '3733799296 30' 2-max Seat #1 is the button
+Seat 1: Player0 (2249 in chips, $10.27 bounty)
+Seat 2: Hero (4 in chips, $10.27 bounty)
+Player0: posts the ante 5
+Hero: posts the ante 4 and is all-in
+Player0: posts small blind 20
+*** HOLE CARDS ***
+Dealt to Hero [Jd 5s]
+Uncalled bet (20) returned to Player0
+Player0 is disconnected
+*** FLOP *** [Ts 5h 2s]
+*** TURN *** [Ts 5h 2s] [2h]
+*** RIVER *** [Ts 5h 2s 2h] [Td]
+*** SHOW DOWN ***
+Player0: shows [8d 6h] (two pair, Tens and Deuces)
+Player0 collected 1 from side pot
+Hero: shows [Jd 5s] (two pair, Tens and Fives)
+Hero collected 8 from main pot
+*** SUMMARY ***
+Total pot 9 Main pot 8. Side pot 1. | Rake 0
+Board [Ts 5h 2s 2h Td]
+Seat 1: Player0 (button) (small blind) showed [8d 6h] and won (1) with two pair, Tens and Deuces
+Seat 2: Hero showed [Jd 5s] and won (8) with two pair, Tens and Fives
+
